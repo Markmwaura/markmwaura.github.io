@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Mark Mwaura"
 title_separator          : "-"
 name                     : &name "Michael Rose"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "Markmwaura_"
 facebook:
   username               : &facebook "michaelrose"
   app_id                 :
@@ -70,7 +70,7 @@ author:
   bio              : "Just another boring, tattooed, time traveling, designer."
   location         : "Buffalo, NY"
   email            : *email
-  uri              : "https://mademistakes.com"
+  uri              : "https://www.markmwaura.com"
   bitbucket        :
   codepen          :
   dribbble         :
