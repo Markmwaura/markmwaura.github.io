@@ -62,7 +62,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : *name
-  avatar           : "images/mark.jpg"
+  avatar           : "mark.jpg"
   bio              : "Just another boring, tattooed, time traveling, designer."
   location         : "Nairobi, Kenya"
   email            : *email
