@@ -1,13 +1,7 @@
-{% include base_path %}
+{% include base_path %} {% if post.header.teaser %} {% capture teaser %}{{ post.header.teaser }}{% endcapture %} {% else %} {% capture teaser %}{{ site.teaser }}{% endcapture %} {% endif %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% capture teaser %}{{ site.teaser }}{% endcapture %}
-{% endif %}
-
-<div class="{{ include.type | default: "list" }}__item">
-  {% if post.link %}
+<div class="{{ include.type | default: " list " }}__item">
+    {% if post.link %}
     <a href="{{ post.link }}" target="_blank">
   {% else %}
     <a href="{{ base_path }}{{ post.url }}">
@@ -16,10 +10,10 @@
       {% if include.type == "grid" and teaser != blank %}
         <div class="archive__item-teaser">
           <img src=
-            {% if teaser contains "://" %}
+            {% if teaser contains ":/" %}
               "{{ teaser }}"
             {% else %}
-              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+              "{{ teaser | prepend: "images/" | prepend: base_path }}"
             {% endif %}
             alt="">
         </div>
