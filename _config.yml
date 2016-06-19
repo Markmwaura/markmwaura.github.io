@@ -8,7 +8,7 @@ title_separator          : "-"
 name                     : &name "Mark Mwaura"
 description              : &description "Welcome to my blog."
 url                      : https://markmwaura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/markmwaura.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -26,7 +26,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+google_site_verification : ""
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -66,7 +66,7 @@ author:
   bio              : "Just another boring, tattooed, time traveling, designer."
   location         : "Nairobi, Kenya"
   email            : *email
-  uri              : "https://markmwaura.com"
+  uri              : "https://www.markmwaura.com"
   bitbucket        :
   codepen          :
   dribbble         :
