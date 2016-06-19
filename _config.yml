@@ -8,7 +8,7 @@ title_separator          : "-"
 name                     : &name "Mark Mwaura"
 description              : &description "Welcome to my blog."
 url                      : https://markmwaura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/markmwaura.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -38,7 +38,7 @@ facebook:
   username               : &facebook "mark.mwaura.98"
   app_id                 :
   publisher              :
-og_image                 : "site-logo.png" # Open Graph/Twitter default site image
+og_image                 : "mark.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -223,7 +223,7 @@ defaults:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
+ paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Africa/Nairobi # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
