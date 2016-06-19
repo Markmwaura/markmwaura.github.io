@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Mark Mwaura"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://markmwaura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -29,7 +29,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+google_site_verification : ""
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -190,7 +190,7 @@ defaults:
       type: docs
     values:
       layout: single
-      read_time: false
+      read_time: true
       author_profile: false
       share: false
       comments: false
