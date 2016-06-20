@@ -6,11 +6,11 @@ main:
   - title: "About"
     url: https://markmwaura.github.io/about/
 
-  - title: "Sample Posts"
-    url: https://mmistakes.github.io/minimal-mistakes/year-archive/
+  - title: "Blog"
+    url: https://markmwaura.github.io/blog/
 
-  - title: "Sample Pages"
-    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
+  - title: "Contact"
+    url: https://markmwaura.github.io/contact/
 
   - title: "Sample Collections"
     url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
