@@ -10,11 +10,4 @@ main:
     url: https://markmwaura.github.io/blog/
 
   - title: "Contact"
-<<<<<<< HEAD
-    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
-=======
     url: https://markmwaura.github.io/contact/
->>>>>>> f793e0305b68eb3081adc0004221509e9f79bce4
-
-  - title: "Sample Collections"
-    url: https://mmistakes.github.io/minimal-mistakes/collection-archive/

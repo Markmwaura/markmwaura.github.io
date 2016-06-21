@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "mark.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
+  bio              : "Just another boring,  time traveling, designer."
   location         : "Nairobi, Kenya"
   email            : *email
   uri              : "https://www.markmwaura.com"
