@@ -6,7 +6,7 @@ locale                   : "en-US"
 title                    : "Mark Mwaura"
 title_separator          : "-"
 name                     : &name "Mark Mwaura"
-description              : &description "Welcome to my blog."
+description              : &description "Software engineer helping communities use technology to make life more productive."
 url                      : "https://markmwaura.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 #gh_repo                  : "https://github.com/markmwaura.github.io"
@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "mark.jpg"
-  bio              : "Just another boring,  time traveling, designer."
+  bio              : "A budding software engineer "
   location         : "Nairobi, Kenya"
   email            : *email
   uri              : "https://www.markmwaura.com"
