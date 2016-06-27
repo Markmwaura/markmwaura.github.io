@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "mark.jpg"
-  bio              : "A budding software engineer "
+  bio              : #"A budding software engineer "
   location         : "Nairobi, Kenya"
   email            : *email
   uri              : "https://www.markmwaura.com"
