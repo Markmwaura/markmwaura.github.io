@@ -22,8 +22,8 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            :  5 
-    colorscheme          : dark
+    num_posts            :  #5 
+    colorscheme          : light
 
 # SEO Related
 google_site_verification : ""
