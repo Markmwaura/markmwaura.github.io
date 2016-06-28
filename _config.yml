@@ -62,7 +62,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : *name
-  avatar           :"mark.jpg"
+  avatar           : "mark.jpg"
   bio              : #"A budding software engineer "
   location         : "Nairobi, Kenya"
   email            : "markkmwaura@gmail.com"
@@ -74,7 +74,7 @@ author:
   facebook         : *facebook
   foursquare       :
   github           : "markmwaura"
-  google_plus      : "110788223157414283933/"
+  google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
