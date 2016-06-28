@@ -3,11 +3,11 @@ main:
  # - title: "Quick-Start Guide"
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
+    - title: "Blog"
+    url: https://markmwaura.github.io/blog
+    
   - title: "About"
     url: https://markmwaura.github.io/about
-
-  - title: "Blog"
-    url: https://markmwaura.github.io/blog
 
   - title: "Contact"
     url: https://markmwaura.github.io/contact

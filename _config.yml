@@ -22,7 +22,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            :  5 
     colorscheme          : dark
 
 # SEO Related
@@ -65,8 +65,8 @@ author:
   avatar           : "mark.jpg"
   bio              : #"A budding software engineer "
   location         : "Nairobi, Kenya"
-  email            : *email
-  uri              : "https://www.markmwaura.com"
+  email            : "markkmwaura@gmail.com"
+  uri              : #"https://www.markmwaura.com"
   bitbucket        :
   codepen          :
   dribbble         :
