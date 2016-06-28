@@ -4,10 +4,5 @@ main:
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
     - title: "Blog"
-    url: https://markmwaura.github.io/blog
+      url: https://markmwaura.github.io/blog
     
-  - title: "About"
-    url: https://markmwaura.github.io/about
-
-  - title: "Contact"
-    url: https://markmwaura.github.io/contact
