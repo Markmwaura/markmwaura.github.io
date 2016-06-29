@@ -1,4 +1,6 @@
-# Github - What Is GitHub & why is it important?
+# Github - why is it important?
+
+
 ![Github](http://markmwaura.github.io/images/github.png)
 GitHub is a website/service that we hear geeks rave about all the time, yet a lot of people don’t really understand what it does.
 
