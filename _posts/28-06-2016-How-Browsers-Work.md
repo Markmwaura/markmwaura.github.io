@@ -1,8 +1,8 @@
 # How Browsers Work
 
-### How Browsers Work
 There are several browsers used on both desktop and mobile device today. These include: *Chrome *Firefox *safari *Opera
 
+![Popular browsers](http://markmwaura.github.io/images/browsers.jpg)
 ### Main function of a browser
 The main function of a browser is to present the web resource you choose, by requesting it from the server and displaying it in the browser window. The resource is usually an HTML document, but may also be a PDF, image, or some other type of content. The location of the resource is specified by the user using a URI (Uniform Resource Identifier).
 

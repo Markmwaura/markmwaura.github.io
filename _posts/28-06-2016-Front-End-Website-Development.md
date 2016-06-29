@@ -1,5 +1,5 @@
 # Front-end Web Development
-
+![Front End web development](http://markmwaura.github.io/images/frontenddev.png)
 Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or web application so that a user can see and interact with them directly. There are so many tutorials and guides on how to be a front end developer but so far I have used ShayHowe’s Web Development. For Beginners it is a really good tutorial as it takes you through step by step. However, with every task comes challenges and Front end development is not shy of them. You can customize the look and feel of your website using CSS.
 
 
