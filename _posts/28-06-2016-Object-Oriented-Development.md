@@ -1,4 +1,4 @@
-# Object Oriented Programming
+
 
 ![Object Oriented Programming](http://markmwaura.github.io/images/OOP.jpg)
 
