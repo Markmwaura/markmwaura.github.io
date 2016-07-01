@@ -50,9 +50,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-71820233-1"
+    tracking_id          :
 
 # Google AdSense
 google_ad_client         :
