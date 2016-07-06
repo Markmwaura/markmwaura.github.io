@@ -44,6 +44,7 @@ public class Student{
    }
 }
 ```
+### Getters & Setters
 
 The public setXXX() and getXXX() methods are the access points of the instance variables of the Student class. Normally, these methods are referred as getters and setters. Therefore any class that wants to access the variables should access them through these getters and setters.
 
@@ -54,9 +55,9 @@ public class RunStudent{
 
    public static void main(String args[]){
       Student std = new Student();
-      std.setName("James");
+      std.setName("Mary");
       std.setAge(20);
-      std.setIdNum("12343ms");
+      std.setIdNum("39871");
 
       System.out.print("Name : " + std.getName() + " Age : " + std.getAge());
     }
@@ -67,11 +68,11 @@ public class RunStudent{
 
 ### Benefits of Encapsulation:
 
-*The fields of a class can be made read-only or write-only.
+* The fields of a class can be made read-only or write-only.
 
-*A class can have total control over what is stored in its fields.
+* A class can have total control over what is stored in its fields.
 
-*The users of a class do not know how the class stores its data. A class can change the data type of a field and users of the class do not need to change any of their code.
+* The users of a class do not know how the class stores its data. A class can change the data type of a field and users of the class do not need to change any of their code.
 
 
 
