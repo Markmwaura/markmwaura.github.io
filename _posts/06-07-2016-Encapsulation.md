@@ -1,6 +1,6 @@
 ### Encapsulation
 
-Encapsulation is the mechanism in which data and functions that manipulate the data are bound together, and that keeps both safe from outside interference and misuse. In encapsulation the variables of a class will be hidden from other classes, and can be accessed only through the methods of their current class, therefore it is also known as data hiding.
+Encapsulation is the mechanism in which data and functions that manipulate the data are bound together, and that keeps both safe from outside interference and misuse. In encapsulation the variables of a class will be hidden from other classes, and can be accessed only through the methods of their current class, which is also known as data hiding.
 
 To achieve encapsulation in Java
 
@@ -12,7 +12,7 @@ To achieve encapsulation in Java
 
 
 ```
-/* File name : EncapTest.java */
+/* File name : Student.java */
 public class Student{
 
    private String name;
@@ -45,7 +45,24 @@ public class Student{
 }
 ```
 
-The public setXXX() and getXXX() methods are the access points of the instance variables of the EncapTest class. Normally, these methods are referred as getters and setters. Therefore any class that wants to access the variables should access them through these getters and setters.
+The public setXXX() and getXXX() methods are the access points of the instance variables of the Student class. Normally, these methods are referred as getters and setters. Therefore any class that wants to access the variables should access them through these getters and setters.
+
+```
+
+/* File name : RunStudent.java */
+public class RunStudent{
+
+   public static void main(String args[]){
+      Student std = new Student();
+      std.setName("James");
+      std.setAge(20);
+      std.setIdNum("12343ms");
+
+      System.out.print("Name : " + std.getName() + " Age : " + std.getAge());
+    }
+}
+
+```
 
 
 ### Benefits of Encapsulation:
