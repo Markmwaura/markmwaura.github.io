@@ -1,4 +1,4 @@
-### Encapsulation
+### Encapsulation in Java
 
 Encapsulation is the mechanism in which data and functions that manipulate the data are bound together, and that keeps both safe from outside interference and misuse. In encapsulation the variables of a class will be hidden from other classes, and can be accessed only through the methods of their current class, which is also known as data hiding.
 
@@ -44,6 +44,7 @@ public class Student{
    }
 }
 ```
+
 ### Getters & Setters
 
 The public setXXX() and getXXX() methods are the access points of the instance variables of the Student class. Normally, these methods are referred as getters and setters. Therefore any class that wants to access the variables should access them through these getters and setters.
