@@ -8,10 +8,11 @@ To achieve encapsulation in Java
 
 * Provide public setter and getter methods to modify and view the variables values.
 
-### For Example 
+### For Example
 
 
-```java
+```
+
 /* File name : Student.java */
 public class Student{
 
@@ -43,7 +44,8 @@ public class Student{
       idNum = newId;
    }
 }
-```java
+
+```
 
 ### Getters & Setters
 
@@ -74,6 +76,3 @@ public class RunStudent{
 * A class can have total control over what is stored in its fields.
 
 * The users of a class do not know how the class stores its data. A class can change the data type of a field and users of the class do not need to change any of their code.
-
-
-
