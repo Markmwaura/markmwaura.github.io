@@ -51,7 +51,7 @@ public class Student{
 
 The public setXXX() and getXXX() methods are the access points of the instance variables of the Student class. Normally, these methods are referred as getters and setters. Therefore any class that wants to access the variables should access them through these getters and setters.
 
-```java
+```
 
 /* File name : RunStudent.java */
 public class RunStudent{
@@ -66,7 +66,7 @@ public class RunStudent{
     }
 }
 
-```java
+```
 
 
 ### Benefits of Encapsulation:
