@@ -2,7 +2,6 @@
 ### Abstract Data types
 
 
-
 ### Stacks
 
 
@@ -11,3 +10,6 @@
 
 
 ### Linked List
+
+
+### Sorting algorithms
