@@ -1,7 +1,7 @@
 
 ### Sorting algorithms  
 
-* 1. Sorting is done in numerical order *
+* 1. Sorting is done in numerical order
 * 2.  Sorting is done using arrays
 * 3. Time is an important factor - the algorithm should take the least amount of time to sort a data set.
 
