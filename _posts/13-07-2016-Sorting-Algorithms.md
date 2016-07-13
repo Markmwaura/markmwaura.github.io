@@ -10,10 +10,9 @@
  This algorithm is mostly suitable  for small data sets.It compares every two elements as it moves across the data set moving horizontally checking which is greater than the other.The aim is to have the least number on the left and the biggest number on the right.
 
 
+
 ```
-
-public static void main(String []args) {
-
+public static void main(String [] args) {
         int x,y,z,swap;
         Scanner input  = new Scanner(System.in);
         System.out.println("Enter number of integers to sort");
@@ -39,6 +38,4 @@ public static void main(String []args) {
         for(y=0;y<x;y++){
             System.out.println(array[y]);
         }
-
-
         ```
