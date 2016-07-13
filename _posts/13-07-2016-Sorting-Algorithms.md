@@ -12,7 +12,9 @@
 
 ```
 
-public static void main(String [] args) {
+public class BubbleSort {
+    public static void main(String []args) {
+
         int x,y,z,swap;
         Scanner input  = new Scanner(System.in);
         System.out.println("Enter number of integers to sort");
@@ -38,6 +40,8 @@ public static void main(String [] args) {
         for(y=0;y<x;y++){
             System.out.println(array[y]);
         }
+
+    }
 }
 
 ```
