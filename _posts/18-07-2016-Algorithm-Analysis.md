@@ -14,3 +14,16 @@ algorithm is efficient or not.To evaluate efficiency time and space are taken in
       b)Space complexity
 
       These days space is insignificant, due to the availability of memory and memory devices.
+
+**Asymptotic Analysis**
+
+The approach used to calculate the complexity of an algorithm in its theoretical analysis.
+**Asymptotic** - denotes a condition where a line tends to meet a curve, but they do not intersect  on a  graph.
+
+**Asymptotic notations **
+
+    1.Big Oh notation
+
+    2.Omega
+
+    3.Theta
