@@ -27,3 +27,8 @@ The approach used to calculate the complexity of an algorithm in its theoretical
     2.Omega
 
     3.Theta
+
+
+====>Growth Rate of an Algorithm
+
+====>Big O notation - complexity
