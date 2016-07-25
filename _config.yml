@@ -22,7 +22,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            :  #5 
+    num_posts            :  #5
     colorscheme          : light
 
 # SEO Related
@@ -76,7 +76,7 @@ author:
   github           : "markmwaura"
   google_plus      : "110788223157414283933"
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         :
   pinterest        :
@@ -150,12 +150,6 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -223,7 +217,7 @@ defaults:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 
+paginate: 5
 paginate_path: /page:num/
 timezone: Africa/Nairobi # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
