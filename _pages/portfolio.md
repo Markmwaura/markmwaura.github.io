@@ -1,7 +1,9 @@
-layout: archive
-title: "Portfolio"
+---
+layout: portfolio
 permalink: /portfolio/
+title: "Portfolio"
 author_profile: true
+---
 
 
 {% include base_path %}

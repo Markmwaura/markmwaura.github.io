@@ -9,5 +9,8 @@ main:
     - title: "About"
       url: https://markmwaura.github.io/about
 
-      - title: "About"
-        url: https://markmwaura.github.io/about
+- title: "Blog"
+  url: https://markmwaura.github.io/blog
+
+- title: "About"
+  url: https://markmwaura.github.io/about
