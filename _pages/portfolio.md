@@ -13,11 +13,13 @@ gallery:
     - url: dropbox.png
       image_path: dropbox.png
       alt: "placeholder image 2"
-      - url: gnome.png
-        image_path: gnome.png
-        alt: "placeholder image 2"
 
 ---
 
 {% include base_path %}
 {% include gallery caption="Screenshots of my projects" %}
+<div class="grid__wrapper">
+  {% for post in site.portfolio %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
