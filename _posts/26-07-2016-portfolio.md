@@ -17,4 +17,4 @@ gallery:
     title: "Image 4 title caption"
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% raw %}{% include gallery  %}{% endraw %}
