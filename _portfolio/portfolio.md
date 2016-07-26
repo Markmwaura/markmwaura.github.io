@@ -1,12 +1,12 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Portfolio"
+excerpt: "Applications."
 header:
   image: bio-photo.jpg
-  <!-- teaser: foo-bar-identity-th.jpg -->
+  teaser: codewars.jpg
 sidebar:
   - title: "Role"
-    <!-- image: http://placehold.it/350x250 -->
+    image: http://placehold.it/350x250
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
