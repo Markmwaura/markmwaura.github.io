@@ -10,9 +10,9 @@ gallery:
   - url: chatwebsite.png
     image_path: chatwebsite.png
     alt: "placeholder image 2"
-    - url: dropbox.png
-      image_path: dropbox.png
-      alt: "placeholder image 2"
+  - url: dropbox.png
+    image_path: dropbox.png
+    alt: "placeholder image 3"
 
 ---
 
