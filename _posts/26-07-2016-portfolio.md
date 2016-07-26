@@ -15,3 +15,6 @@ gallery:
     image_path: queue.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
+
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
