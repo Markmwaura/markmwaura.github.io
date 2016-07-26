@@ -2,21 +2,22 @@
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
-author_profile: false
+author_profile: true
 gallery:
-  - url: codewars.png
-    image_path: github.png
+  - url: sage.png
+    image_path: sage.png
     alt: "placeholder image 1"
-  - url: github.png
-    image_path: learning.jpg
+  - url: chatwebsite.png
+    image_path: chatwebsite.png
     alt: "placeholder image 2"
+    - url: dropbox.png
+      image_path: dropbox.png
+      alt: "placeholder image 2"
+      - url: gnome.png
+        image_path: gnome.png
+        alt: "placeholder image 2"
 
 ---
 
 {% include base_path %}
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-<div class="grid__wrapper">
-  {% for post in site.portfolio %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+{% include gallery caption="Screenshots of my projects" %}
