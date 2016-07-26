@@ -6,6 +6,7 @@ tags:
   - gallery
   - Post Formats
   - tiled
+
 gallery:
   - url: linkedlist.png
     image_path: umark.jpg
@@ -23,7 +24,7 @@ gallery:
     image_path: queue.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
----
 
+---
 
 {% raw %}{% include gallery  %}{% endraw %}
