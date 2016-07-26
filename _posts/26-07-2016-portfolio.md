@@ -8,22 +8,15 @@ tags:
   - tiled
 
 gallery:
-  - url: linkedlist.png
-    image_path: umark.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: unsplash-gallery-image-2.jpg
-    image_path: learning.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: unsplash-gallery-image-3.jpg
-    image_path: codewars.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: unsplash-gallery-image-4.jpg
-    image_path: queue.png
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+- url: https://flic.kr/p/8a6Ven
+   image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
+   alt: "Black and grays with a hint of green"
+ - url: https://flic.kr/p/8a738X
+   image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
+   alt: "Made for open text placement"
+ - url: https://flic.kr/p/8a6VXP
+   image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
+   alt: "Fog in the trees"
 
 ---
 
