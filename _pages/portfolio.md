@@ -20,7 +20,7 @@ gallery:
 
 
 {% include base_path %}
-{% include gallery caption="Project Screenshots" %}
+{% include gallery caption="" %}
 <div class="grid__wrapper">
   {% for post in site.portfolio %}
     {% include archive-single.html type="grid" %}
