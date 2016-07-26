@@ -20,4 +20,4 @@ gallery:
 
 ---
 
-{% raw %}{% include gallery  %}{% endraw %}
+{% include gallery  %}
