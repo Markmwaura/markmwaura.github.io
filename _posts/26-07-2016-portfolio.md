@@ -1,11 +1,5 @@
 ---
-title: "Post: Gallery"
-categories:
-  - Post Formats
-tags:
-  - gallery
-  - Post Formats
-  - tiled
+t
 
 gallery:
   - url: linkedlist.png
