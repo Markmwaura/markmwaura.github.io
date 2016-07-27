@@ -2,7 +2,7 @@
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
-author_profile: false
+author_profile: true
 share: true
 gallery:
   - url: sage.png

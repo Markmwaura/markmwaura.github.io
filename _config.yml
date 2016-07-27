@@ -22,7 +22,7 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            :  #5
+    num_posts            :  5
     colorscheme          : light
 
 # SEO Related
